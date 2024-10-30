@@ -1,4 +1,4 @@
-# SABnzbdRefreshScripts#
+# SABnzbdRefreshScripts
 
 This repository contains scripts for refreshing Sonarrs & Radarrs queue after sabnzbd has finished downloading. so that Sonarr & Radarr can imeaditly start importing the files.
 
